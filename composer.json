@@ -1,0 +1,21 @@
+{
+  "name": "algerdby/doctrine-mysql-timestamp",
+  "description": "",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pavel Patapau",
+      "email": "algerd.blr@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^5.6.0 || ^7.0",
+    "doctrine/dbal": "2.*"
+  },
+  "autoload": {
+      "psr-4": {
+        "DoctrineMysqlTimestamp\\" : "lib/DoctrineMysqlTimestamp/"
+      }
+  }
+}
