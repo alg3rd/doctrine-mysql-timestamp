@@ -1,7 +1,8 @@
 {
   "name": "algerdby/doctrine-mysql-timestamp",
-  "description": "",
+  "description": "A library adding the mysql timestamp type to Doctrine ORM",
   "minimum-stability": "stable",
+  "keywords": ["Doctrine", "ORM", "timestamp", "DateTime", "mysql"],
   "license": "MIT",
   "authors": [
     {
